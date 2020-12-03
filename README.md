@@ -1,5 +1,5 @@
 # ICS Att&CK Ontology
-This repository contains ontologies for the Mitre ATT&CK Framework ICS profile.
+This repository contains ontologies for the Mitre ATT&CK Framework's ICS profile.
 The ics-attAck ontology's TBox is created manually.
 The instanciated ics-attAck ontology, however, is generated from the Mitre ATT&CK Framework ICS profile webpage.
 
